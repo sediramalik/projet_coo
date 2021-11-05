@@ -1,2 +1,2 @@
 # projet_coo
-Malik Sedira &amp; Matthias Riffard
+Malik Sedira &amp; Matthias Riffard  
